@@ -1,0 +1,5 @@
+2024-02-29 10:18:40,044 __main__:27 <module> [INFO]: Process Start!
+2024-02-29 10:18:40,044 __main__:29 <module> [INFO]: info
+2024-02-29 10:18:40,044 __main__:30 <module> [WARNING]: warning
+2024-02-29 10:18:40,044 __main__:31 <module> [ERROR]: error
+2024-02-29 10:18:40,044 __main__:32 <module> [INFO]: Process End!
